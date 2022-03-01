@@ -1,0 +1,93 @@
+.top{
+    background-color: rgb(238, 231, 231);
+    height: 720px;
+    border: 4px dotted rgb(54, 194, 194);
+    margin: 5px;
+}
+
+.middle{
+    background-color: aqua;
+    height: 80%;
+    margin-top: 80px;
+}
+
+.white{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: center;
+    width: 400px;
+    border-radius: 20px;
+    position: relative;
+    left: 37%;
+    top:45px ;
+}
+
+.center{
+    height: 150px;
+    background-color: rgb(31, 170, 170);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+.id{
+    width: 120px;
+    position: relative;
+    bottom: 60px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 100%;
+}
+
+h2{
+    position: relative;
+    bottom: 65px;
+}
+
+.number{
+    font-weight: normal;
+    font-family: serif ;
+}
+
+h2{
+    margin-bottom: 0;
+}
+
+p{
+    margin-top: 10px;
+    border-bottom: 1px solid gainsboro;
+    position: relative;
+    bottom: 60px;
+    padding-bottom: 27px;
+    margin-bottom: 40px;
+}
+
+
+
+/* footer-section */
+
+.followers{
+    width: 80px;
+    position: relative;
+    left: 40px;
+    margin: 0;
+}
+
+.likes{
+    width: 90px ;
+    position: absolute;
+    left: 150px;
+}
+
+.photos{
+    width: 80px;
+    position: absolute;
+    right: 50px;
+}
+
+
+.footer-bottom{
+    font-weight: normal;
+    font-size: 15px;
+}
+
